@@ -3,7 +3,7 @@ matplotlib
 numpy
 termcolor
 nltk
-Pillow
+Pillow<10.0.0
 wordcloud
 imbalanced-learn
 scikit-learn
