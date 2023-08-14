@@ -12,7 +12,7 @@ Za detaljniju analizu materijali se mogu naci na [Kaggle-u](https://www.kaggle.c
 
 ## Instalacija
 
-Pre samog pokretanja programa potrebno je instalirati koriscene biblioteke koristeci sledecu komandu:
+Pre samog pokretanja projekta potrebno je instalirati koriscene biblioteke koristeci sledecu komandu:
 ```bash
 pip3 install -r requirements.txt
 ```
