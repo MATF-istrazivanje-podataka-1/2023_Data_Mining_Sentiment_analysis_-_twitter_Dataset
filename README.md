@@ -7,14 +7,18 @@ Asistent: `Marija Eric`
 
 ## Ukratko o projektu
 
-Zadatak projekta je da se na osnovu tweet-a koji se nalazi u podacima zakljuci da li dati tweet sadrzi govor mrznje ili ne  
+Zadatak projekta je da se na osnovu tweet-a zakljuci da li dati tweet sadrzi govor mrznje ili ne  
 Za detaljniju analizu materijali se mogu naci na [Kaggle-u](https://www.kaggle.com/datasets/arkhoshghalb/twitter-sentiment-analysis-hatred-speech)  
 
 ## Instalacija
 
-Pre samog pokretanja projekta potrebno je instalirati koriscene biblioteke koristeci sledecu komandu:
+Pre samog pokretanja projekta potrebno je instalirati koriscene biblioteke:
 ```bash
 pip3 install -r requirements.txt
+```
+Ako se projekat pokrece na Google Colab-u onda u prvoj celiji izvrsiti komandu na sledeci nacin:
+```bash
+!pip3 install -r requirements.txt
 ```
 
 ## Struktura projekta
